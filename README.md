@@ -1,7 +1,7 @@
 # reading-notes
 
 ## Growth mindset
-_Thinking of growth mindset Believes that one’s fundamental abilities can be developed through perseverance and effort, intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning._
+_Thinking of growth mindset I believes that one’s fundamental abilities can be developed through perseverance and effort, intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning._
 
 ## Reminders 
 1. Believe myself than I can pass anything and not to give up and I just want to try hard and make it a challenge for me.
@@ -14,7 +14,7 @@ Im from Syria.
 I graduated as a Civil engineer from damascus university .*
 
 ### Hobbies:
-**1. Graphic designer like making animated videos and photos and Play chess :)**
+** Graphic designer like making animated videos and photos and Play chess :)**
 
 
 # link
