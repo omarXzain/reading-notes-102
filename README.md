@@ -14,8 +14,7 @@ Im from Syria.
 I graduated as a Civil engineer from damascus university .*
 
 ### Hobbies:
-1. Graphic designer like making animated videos and photos
-2. Play chess :)
+**1. Graphic designer like making animated videos and photos and Play chess :)**
 
 
 # link
