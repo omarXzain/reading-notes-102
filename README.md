@@ -13,5 +13,9 @@ _believes that one’s fundamental abilities can be developed through perseveran
 Im from Syria.
 I graduated as a Civil engineer from damascus university .*
 ### Hobbies:
-graphic design like making animated videos 
-and chess 
+1. graphic designer like making animated videos and photos
+2. playing chess 
+
+
+# link
+https://omarxzain.github.io/reading-notes/
