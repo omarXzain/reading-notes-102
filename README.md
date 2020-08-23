@@ -8,7 +8,7 @@ _Thinking of growth mindset Believes that one’s fundamental abilities can be d
 2. Never say never because nothing is impossible even if I mistaken I will learn from my mistakes.
 3. If I got stuck somewhere I never give up and try to search for a solution and and discuss with my team mate.
 
-**Introducing myself**
+## Introducing myself
 *My Name is Omar Zain,
 Im from Syria.
 I graduated as a Civil engineer from damascus university .*
