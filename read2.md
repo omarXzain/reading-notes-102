@@ -26,3 +26,7 @@ widely used in web development today**
 **coding text editor like visual studio has alot of features and can reconize and under stand what we wrote in it and it's colored and comfortable to read and can easily reach to the code that what we want**
 
 ![](https://miro.medium.com/max/800/1*2o2n2zIkODjDKioNyyeKfg.png)
+
+
+
+https://omarxzain.github.io/reading-notes/read2
