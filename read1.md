@@ -9,7 +9,7 @@ __as i can see i can make alot of thing in github pages ... i can add my web con
 # Example :
 i can use any img easliy with this simple format
 
-![Alt Text](url link)
+ ![ Alt Text ] (url link)  
 
 ![](https://upload.wikimedia.org/wikipedia/en/f/f1/Down_Arrow_Icon.png)
 ![](https://msudol.com/wp-content/uploads/2017/04/markdown-e1495510605448.png)
