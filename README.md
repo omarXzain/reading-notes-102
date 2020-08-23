@@ -3,6 +3,8 @@
 ## Growth mindset
 _Thinking of growth mindset I believes that one’s fundamental abilities can be developed through perseverance and effort, intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning._
 
+![](https://i.dlpng.com/static/png/6938819_preview.png)
+
 ## Reminders 
 1. Believe myself than I can pass anything and not to give up and I just want to try hard and make it a challenge for me.
 2. Never say never because nothing is impossible even if I mistaken I will learn from my mistakes.
