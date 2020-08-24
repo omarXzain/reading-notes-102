@@ -1,5 +1,5 @@
 # Reflection about Html pages
-**it's created to target audienc more often and understand what we should target and we must think why they are here and we should now how to attract the visitors because they visit the site for a reason and if we gathered all this information it can help us with the designs and guide us for the right thing
+**it's created to target audience more often and understand what we should target and we must think why they are here and we should now how to attract the visitors because they visit the site for a reason and if we gathered all this information it can help us with the designs and guide us for the right thing
 and we must understand to make the content clear and simple because they want to to achieve their goals quickly and effectively**
 
 # About Html layout
