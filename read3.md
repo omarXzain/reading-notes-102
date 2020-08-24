@@ -1,4 +1,4 @@
-# summray about git
+# Summary about git
  - Git is a version control system Git serves as the foundation for many services, like GitHub and GitLab, but you can use Git without using any other service. This means that you can use Git privately or publicly
 
 # Git snapshots
