@@ -1,3 +1,10 @@
+# About CSS
+**we can include CSS rules within an HTML page and its lives inside HEAD element 
+**We can use the following:
+- href This specifies the path to the CSS file (which is often placed in a folder called css or styles).
+- type This attribute specifies the type of document being linked to. The value should be text/css.
+- rel This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file
+- we can use multi css files for a single html file this make a rules for every section
 
 # About Html & css color
 - colors can make pages full of life and give it a nice design and comfort view to th reader or visitor 
