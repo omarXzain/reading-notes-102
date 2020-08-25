@@ -11,4 +11,4 @@
 **It’s a space in memory that store data of any type (numerical,string or boolean). We can declared the varible by : Var any thing= ;**
 
 
-![](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
+![](https://cdn.searchenginejournal.com/wp-content/uploads/2020/02/seo-javascript-the-good-the-bad-the-uncertainty-5e4a09b3cd5db.png)
