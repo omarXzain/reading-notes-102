@@ -21,5 +21,19 @@ Access the content of the page Modify the content of the page Program rules or i
 5- an interval of time has passed
 
 
-ab
+# About expression & operators
+**expression evaluates into a single value, there are two types of expressions
+1- Expression that just assign a value to a variable. EXM: var color = 'beige';
+2- EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE, EXM: var area = 3 * 2;
+- Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
+
+# About Functions
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function 
+
+
+
+
+
+
+
 
