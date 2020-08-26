@@ -22,7 +22,7 @@ Access the content of the page Modify the content of the page Program rules or i
 
 
 # About expression & operators
-**expression evaluates into a single value, there are two types of expressions
+- expression evaluates into a single value, there are two types of expressions
 1- Expression that just assign a value to a variable. EXM: var color = 'beige';
 2- EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE, EXM: var area = 3 * 2;
 - Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
