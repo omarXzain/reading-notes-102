@@ -12,9 +12,9 @@ Exm:
  -!= means is not equal too
 - === means strict equal too
 - !== means to not equal too
-- > means greater than 
-- < less than 
-- >= greater than or equal too
+- . > means greater than 
+- . < less than 
+- . >= greater than or equal too
 - <= less than or equal too
 
 # Logical operators
